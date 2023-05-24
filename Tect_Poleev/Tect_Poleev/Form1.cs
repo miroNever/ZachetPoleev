@@ -50,7 +50,7 @@ namespace Tect_Poleev
         {
             List<string> list = line.Split(' ').ToList( );
             IEnumerable<string> result =
-                //берём w из листа
+                //берём значение из листа
                 from w in list
                 //ищем совпадение слова с словом из файла
                 where w.Contains(word)
@@ -74,11 +74,18 @@ namespace Tect_Poleev
                     string line = "";
                     //чтение из файла
                     line = ReadingFile(line);
-                    int count = Search(word.ToLower( ), line.ToLower( ));
-                    if ( count > 0 )
-                        MessageBox.Show($"Найдены {count} вхождения(ий) поискового запроса {word}");
+                    if ( line.Length != 0 )
+                    {
+                        int count = Search(word.ToLower( ), line.ToLower( ));
+                        if ( count > 0 )
+                            MessageBox.Show($"Найдены {count} вхождения(ий) поискового запроса {word}");
+                        else
+                            MessageBox.Show($"Не найдены входления(ий) поискового запроса {word}");
+                    }
                     else
-                        MessageBox.Show($"Не найдены входления(ий) поискового запроса {word}");
+                    {
+                        MessageBox.Show("Файл пуст");
+                    }
                 }
                 else
                 {
