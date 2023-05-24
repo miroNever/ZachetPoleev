@@ -1,0 +1,10 @@
+C:\Users\305-10\source\repos\Tect_Poleev\Tect_Poleev\obj\Debug\Tect_Poleev.csproj.AssemblyReference.cache
+C:\Users\305-10\source\repos\Tect_Poleev\Tect_Poleev\obj\Debug\Tect_Poleev.Form1.resources
+C:\Users\305-10\source\repos\Tect_Poleev\Tect_Poleev\obj\Debug\Tect_Poleev.Properties.Resources.resources
+C:\Users\305-10\source\repos\Tect_Poleev\Tect_Poleev\obj\Debug\Tect_Poleev.csproj.GenerateResource.cache
+C:\Users\305-10\source\repos\Tect_Poleev\Tect_Poleev\obj\Debug\Tect_Poleev.csproj.CoreCompileInputs.cache
+C:\Users\305-10\source\repos\Tect_Poleev\Tect_Poleev\bin\Debug\Tect_Poleev.exe.config
+C:\Users\305-10\source\repos\Tect_Poleev\Tect_Poleev\bin\Debug\Tect_Poleev.exe
+C:\Users\305-10\source\repos\Tect_Poleev\Tect_Poleev\bin\Debug\Tect_Poleev.pdb
+C:\Users\305-10\source\repos\Tect_Poleev\Tect_Poleev\obj\Debug\Tect_Poleev.exe
+C:\Users\305-10\source\repos\Tect_Poleev\Tect_Poleev\obj\Debug\Tect_Poleev.pdb
